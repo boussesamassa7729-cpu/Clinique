@@ -304,7 +304,7 @@
     "@melloware/coloris": "^0.25.0",
     "@types/node": "^26.6.5",
     "@vitest/browser-playwright": "4.1.12",
-    "@vitest/coverage-istanbul": "4.1.12",
+    "@vitest/coverage-istanbul": "5.0.5",
     "apexcharts": "7.0.0",
     "autosize": "^6.0.1",
     "choices.js": "^11.2.4",
